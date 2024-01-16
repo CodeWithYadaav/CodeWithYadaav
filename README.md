@@ -7,8 +7,8 @@ I'm Praveen Yadav, a code enthusiast shaping digital landscapes with a heart for
 
 ## 🧰 Tech Toolkit
 Dive into the tools I use daily:
-- **Languages:** JavaScript (Node.js), TypeScript
-- **Frameworks:** Express.js, Nest.js
+- **Languages:** JavaScript, TypeScript
+- **Frameworks:** Nodejs, Express.js, Nest.js
 - **Databases:** MySQL, Redis
 - **Tools:** Docker
 - **Technologies:** Web3
